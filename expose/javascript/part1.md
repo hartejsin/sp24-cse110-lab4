@@ -4,10 +4,10 @@ Line 9 prints: values added: 10
 # 2
 Line 13 prints: final result: 10
 
-#3
+# 3
 Line 9 prints: values added: 10
 
-#  4
+# 4
 Line 13 prints an error, result is not defined since let gives the variable result block scope which means it cannot be used outside the if block.
 
 # 5/6
