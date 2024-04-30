@@ -61,3 +61,10 @@ true
 
 # 17
 The function returns a newArray with all the values of the previous array doubled. This is because modifyArray iterates through our array and pushes the result of the callback function on the current iteration to a new array. So 1,2,3 becomes 2,4,6.
+
+# 18
+1
+4
+2
+3
+Logs 1 and 4, then 2 and 3 after waiting 1 second. 
