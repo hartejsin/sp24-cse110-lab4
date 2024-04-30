@@ -58,3 +58,6 @@ true
 
 # 15
 === checks if the types of the two variables and values are the same. == will try to perform type conversion first, then check for equality
+
+# 17
+The function returns a newArray with all the values of the previous array doubled. This is because modifyArray iterates through our array and pushes the result of the callback function on the current iteration to a new array. So 1,2,3 becomes 2,4,6.
